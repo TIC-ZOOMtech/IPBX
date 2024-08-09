@@ -13,7 +13,7 @@
 
 [Advanced settings]
 
-[x] Support INBAND DTMF
+[x] Support INBAND DTMF </br>
 [x] Support SIPINFO DTMF
 
 ----------------------------------------------------
